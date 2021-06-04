@@ -1,0 +1,38 @@
+#ecard {
+    display: block;
+    margin:0 600px;         
+}
+.featured {
+    text-align: right;
+    margin-right: 20px;
+}
+.card {
+    text-align: center;
+    border: solid black;
+    width: 400px;
+    height: 650px;
+    margin-bottom: 50px;   
+}
+.epic {
+ width:250px;
+ border-radius: 50%;
+ margin: 10px 50px; 
+}
+.ename {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding: 25px;
+}
+.ejob {
+    font-size: 18px;
+    padding-bottom: 20px;
+
+}
+
+.elabel {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+
+}
